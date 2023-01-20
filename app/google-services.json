@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729595242648",
+    "project_id": "fir-4f9f2",
+    "storage_bucket": "fir-4f9f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729595242648:android:96c79c07428e71ef2808ed",
+        "android_client_info": {
+          "package_name": "com.triyoka.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729595242648-05ohpvc5iu176bmf9eojldjlf0lipm7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8INbcu6Yr8-6bvMHL3CPbg_CDAb-32nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729595242648-05ohpvc5iu176bmf9eojldjlf0lipm7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
